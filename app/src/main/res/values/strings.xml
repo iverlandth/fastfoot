@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">FASTFOOD</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">903624109695881</string>
+    <string name="facebook_app_id"></string>
+    <string name="title_activity_menu">menu</string>
+    <string name="title_activity_datos">datos</string>
+    <string name="title_activity_pedidos">pedidos</string>
+    <string name="add_product">Agregar a carrito</string>
+
+</resources>

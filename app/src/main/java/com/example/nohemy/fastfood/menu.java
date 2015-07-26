@@ -36,7 +36,7 @@ public class menu extends Activity implements GetRestListener, AdapterView.OnIte
 
         try {
             JSONObject params = new JSONObject();
-            params.put("url", "http://192.168.1.1:8181/menu");
+            params.put("url", "http://192.168.1.100:8181/menu");
             GetRest peticion = new GetRest();
             peticion.execute(params);
             peticion.setOnPostListener(this);
